@@ -18,6 +18,16 @@ This project was developed as part of academic learning and practical implementa
 - Email functionality using PHPMailer
 
 ---
+## screenshots
+-home page
+-registration page
+-login page
+-products page
+
+---
+## 🎯 Purpose of Project
+This project was developed to understand PHP backend development, database connectivity, session handling, and form validation.
+
 
 ## 🛠 Technologies Used
 - PHP
